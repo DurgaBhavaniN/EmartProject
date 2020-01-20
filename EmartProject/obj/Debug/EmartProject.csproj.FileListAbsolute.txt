@@ -1,0 +1,6 @@
+D:\Durga\Project1\EmartProject\obj\Debug\EmartProject.csprojAssemblyReference.cache
+D:\Durga\Project1\EmartProject\bin\Debug\EmartProject.exe.config
+D:\Durga\Project1\EmartProject\bin\Debug\EmartProject.exe
+D:\Durga\Project1\EmartProject\bin\Debug\EmartProject.pdb
+D:\Durga\Project1\EmartProject\obj\Debug\EmartProject.exe
+D:\Durga\Project1\EmartProject\obj\Debug\EmartProject.pdb
